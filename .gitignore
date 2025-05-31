@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.pkl
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Environment files
+.env
+.env.*
+
+# Virtual Environment
+options-trading-env/
+venv/
+env/
+
+# SmartAPI library (exclude it)
+smartapi-python/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs / Outputs
+*.log
+*.csv
